@@ -1,8 +1,8 @@
-#📚 RAG PDF Analyzer (Streamlit + LlamaIndex)
+# 📚 RAG PDF Analyzer (Streamlit + LlamaIndex)
 
 A simple Streamlit application that lets you upload PDF files and ask questions about their content using local embeddings (BGE-small) and Gemini for answer generation.
 
-#✨ Features
+# ✨ Features
 
 Upload one or multiple PDFs
 
